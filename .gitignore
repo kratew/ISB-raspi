@@ -1,0 +1,9 @@
+# intelli J
+.idea/
+
+# node_modules
+node_modules/
+
+#by Kimilm
+views/local.ejs
+.DS_Store
